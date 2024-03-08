@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin: 25px;
+}
+
+.calculator-keys {
+  text-align: center;
+  margin: 20px;
+}
+
+.calculator-screen {
+text-align: center;
+width: 100%;
+padding: 10px;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.button {
+  display: flex;
+  background-color: rgb(221, 25, 25);
+}
+
+button {
+  width: 100px;
+  height: auto;
+  font-size: 30px;
+}
